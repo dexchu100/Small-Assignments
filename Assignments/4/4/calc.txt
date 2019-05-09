@@ -1,0 +1,4 @@
+Result: 40/3 = 13.333         Hex = d         Oct = 15         Bin = 1101
+
+Result: 4+4 = 8.000         Hex = 8         Oct = 10         Bin = 1000
+
